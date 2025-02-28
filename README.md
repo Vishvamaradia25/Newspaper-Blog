@@ -4,21 +4,23 @@ A modern, multi-language newspaper blog website built with **React**, **Vite**, 
 
 
 ## Features
-✅Home Page- Showcases recent articles.
-✅Search Functionality- Find articles by title.
-✅Multi-Language Support- English & Hindi.
-✅Dark Mode- Switch between light and dark themes.
-✅Category-Based Navigation- Explore news by category.
-✅Article Detail Page- Read full articles.
-✅Responsive Design- Optimized for all devices.
-✅Fast Performance- Powered by Vite.
+
+- ✅ **Home Page:** Showcases recent articles.  
+- ✅ **Search Functionality:** Find articles by title.  
+- ✅ **Multi-Language Support:** English & Hindi.  
+- ✅ **Dark Mode:** Switch between light and dark themes.  
+- ✅ **Category-Based Navigation:** Explore news by category.  
+- ✅ **Article Detail Page:** Read full articles.  
+- ✅ **Responsive Design:** Optimized for all devices.  
+- ✅ **Fast Performance:** Powered by Vite.  
 
 
 ## Tech Stack
--**Frontend:** React, Tailwind CSS
--**Build Tool:** Vite
--**Routing:** React Router
--**Icons:** React Icons
+
+- **Frontend:** React, Tailwind CSS  
+- **Build Tool:** Vite  
+- **Routing:** React Router  
+- **Icons:** React Icons
 
 
 ## Installation Guide
